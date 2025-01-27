@@ -1,10 +1,8 @@
-<br clear="both">
-
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="Center">My name is Ahmed Hisham and I'm a FullStack Develooper under Development 🤌</p>
+<p align="center">My name is Ahmed Hisham and I'm a FullStack Develooper under Development 🤌</p>
 
 ###
 
