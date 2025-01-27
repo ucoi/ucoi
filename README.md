@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=900&color=00BFFF&width=450&lines=Hey+there%2C+I'm+Ahmed;A+Full-Stack+Developer+Under+Development+%F0%9F%91%8C" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=900&color=00BFFF&width=500&lines=Hey+there%2C+I'm+Ahmed;A+Full-Stack+Developer+Under+Development+%F0%9F%91%8C" alt="Typing Animation">
 </p>
 
 ---
@@ -50,16 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ucoi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-hisham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ahmed_hisham" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
