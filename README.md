@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=I'm+Ahmed+Hisham%2C+a+Full-Stack+Developer+under+development!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hello+I+am+a+Full+Stack+Developer+under+development;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
-
 ---
 
 <h2 align="left">About Me</h2>
