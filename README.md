@@ -49,15 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-hisham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ahmed_hisham" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
