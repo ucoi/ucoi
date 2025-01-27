@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">I'm Ahmed Hisham, a Full-Stack Developer under development 🤌</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hey+there%2C+I'm+Ahmed+Hisham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+
 
 ---
 
