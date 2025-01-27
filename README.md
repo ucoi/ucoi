@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="center">I'm Ahmed Hisham, a Full-Stack Developer under development 🤌</p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hey+there%2C+I'm+Ahmed+Hisham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=I'm+Ahmed+Hisham%2C+a+Full-Stack+Developer+under+development!" alt="Typing SVG">
+</p>
 
 ---
 
@@ -51,3 +51,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucoi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
+---
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-hisham" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ahmed_hisham" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
