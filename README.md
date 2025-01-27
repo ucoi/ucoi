@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hey+there%2C+I'm+Ahmed;A+Full-Stack+Developer+Under+Development+%F0%9F%91%8C" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=900&color=00BFFF&width=450&lines=Hey+there%2C+I'm+Ahmed;A+Full-Stack+Developer+Under+Development+%F0%9F%91%8C" alt="Typing Animation">
 </p>
 
 ---
